@@ -13,27 +13,27 @@ This is a place in which I concentrate all the resources I have found interestin
 
 | Item          | Topic                                     |
 |:---:          |:-------------                             |
-| 1             | [Web dev workflow](#web-dev-workflow)     |
-| 2             | [Algorithms](#algorithms)                 |
-| 3             | [Data structures](#data-structures)       |
-| 4             | [Books](#books)                           |
-| 5             | [Tutorials](#tutorials)                   |
-| 6             | [Tools & Frameworks](#tools-&-frameworks) |
-| 7             | [Articles](#articles)                     |
-| 8             | [Videos](#articles)                       |
-| 9             | [Databases & APIs](#databases-&-apis)     |
-| 10            | [React](#react)                           |
-| 11            | [Node & Backend](#node-&-backend)                             |
-| 12            | [CodePens](#code-pens)                    |
-| 13            | [Web Dev Jobs](#code-pens)                |
-| 14            | [Packages](#packages)                     |
-| 15            | [JavaScript](#javascript)                 |
-| 16            | [Fonts](#fonts)                           |
-| 17            | [Images](#images)                         |
-| 18            | [Design](#design)                         |
-| 19            | [Coding Music](#coding-music)             |
-| 20            | [Project Management](#project-management) |
-| 21            | [Programming & IDE](#programming-&-ide)   |
+| 1.            | [Web dev workflow](#web-dev-workflow)     |
+| 2.            | [Algorithms](#algorithms)                 |
+| 3.            | [Data structures](#data-structures)       |
+| 4.            | [Books](#books)                           |
+| 5.            | [Tutorials](#tutorials)                   |
+| 6.            | [Tools & Frameworks](#tools-&-frameworks) |
+| 7.            | [Articles](#articles)                     |
+| 8.            | [Videos](#articles)                       |
+| 9.            | [Databases & APIs](#databases-&-apis)     |
+| 10.           | [React](#react)                           |
+| 11.           | [Node & Backend](#node-&-backend)                             |
+| 12.           | [CodePens](#code-pens)                    |
+| 13.           | [Web Dev Jobs](#code-pens)                |
+| 14.           | [Packages](#packages)                     |
+| 15.           | [JavaScript](#javascript)                 |
+| 16.           | [Fonts](#fonts)                           |
+| 17.           | [Images](#images)                         |
+| 18.           | [Design](#design)                         |
+| 19.           | [Coding Music](#coding-music)             |
+| 20.           | [Project Management](#project-management) |
+| 21.           | [Programming & IDE](#programming-&-ide)   |
 
 ### Web dev workflow
 ---
