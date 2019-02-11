@@ -37,7 +37,6 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Web dev workflow
 ---
-- [ ] []()
 - [ ] [Progressive web apps checklist](https://developers.google.com/web/progressive-web-apps/checklist) 
 - [ ] [Web dev setup: Robin Wieruch](https://www.robinwieruch.de/developer-setup/) 
 - [ ] [User Stories - Fast Agile Skills](https://www.linkedin.com/pulse/20141026233229-25825330-user-stories-fast-agile-skills/) 
@@ -57,7 +56,6 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Books
 ---
-* [ ] []()
 * [ ] [Top 20 software development books](https://apiumhub.com/tech-blog-barcelona/software-development-books/)
 
 ### Tutorials
@@ -93,6 +91,7 @@ This is a place in which I concentrate all the resources I have found interestin
 * [ ] [Heroku - Deploy, manage and scale cloud apps)](https://dashboard.heroku.com)
 * [ ] [Bootstrap - Toolkit to build responsive, mobile-first apps)](https://getbootstrap.com/)
 * [ ] [Boomerang for gmail - Schedule an email to be sent later)](https://www.boomeranggmail.com/)
+* [ ] [Markdown online preview](https://dillinger.io/)
 
 ### Articles
 ---
@@ -104,7 +103,6 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Databases & APIs
 ---
-* [ ] []()
 * [ ] [Free open data sources](https://medium.freecodecamp.org/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d?fbclid=IwAR2AfqWBaDEnpsgNwtC_7F5EvzNRHdutyx--Ak-yWYNB0mYL-mzLUSNxODc)
 * [ ] [Largest API Directory](https://www.programmableweb.com/)
 * [ ] [Star Wars Api](http://tomadmz.com/SWAPI/main.html)
@@ -161,7 +159,6 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Javascript
 ---
-* [ ] []()
 * [ ] [What is JSON?](https://www.infoworld.com/article/3222851/javascript/what-is-json-javascript-object-notation-explained.html)
 * [ ] [The state of Javascript](https://stateofjs.com/)
 * [ ] [Use authentication libraries](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
@@ -170,12 +167,10 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Fonts
 ---
-* [ ] []()
 * [ ] [fontawesome](https://fontawesome.com/start)
 
 ### Images
 ---
-* [ ] []()
 * [ ] [Free transparent png images](http://www.stickpng.com/)
 * [ ] [Remove image background](https://www.remove.bg/)
 * [ ] [CSS icon](https://cssicon.space/?fbclid=IwAR3TjlKjA1GX_SwFXfnBR6pyWUQyge6Vf8AL262O0cbtYGfrzlNefjgnbJ4#/icon/sunrise-solid)
@@ -183,7 +178,6 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Design
 ---
-* [ ] []()
 * [ ] [Good UX / Bad UX](https://medium.com/goodux-badux)
 * [ ] [Awwwards](https://www.awwwards.com/)
 * [ ] [Holopipe](https://holopipe.com/Features)
