@@ -12,7 +12,7 @@ This is a place in which I concentrate all the resources I have found interestin
 ---
 
 | Item          | Topic                                     |
-|:---:          |:-------------:                            |
+|:---:          |:-------------                             |
 | 1             | [Web dev workflow](#web-dev-workflow)     |
 | 2             | [Algorithms](#algorithms)                 |
 | 3             | [Data structures](#data-structures)       |
