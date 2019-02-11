@@ -1,4 +1,4 @@
-# learning-resources
+# learning-resources (& tools)
 This is a place in which I concentrate all the resources I have found interesting or useful for my web development learning process.
 
 <p align="center">
@@ -23,7 +23,7 @@ This is a place in which I concentrate all the resources I have found interestin
 | 8             | [Videos](#articles)                       |
 | 9             | [Databases & APIs](#databases-&-apis)     |
 | 10            | [React](#react)                           |
-| 11            | [Node](#node)                             |
+| 11            | [Node & Backend](#node-&-backend)                             |
 | 12            | [CodePens](#code-pens)                    |
 | 13            | [Web Dev Jobs](#code-pens)                |
 | 14            | [Packages](#packages)                     |
@@ -129,12 +129,13 @@ This is a place in which I concentrate all the resources I have found interestin
 * [ ] [Facebook Create React App](https://github.com/facebook/create-react-app)
 * [ ] [deploy create-react-app to Heroku](https://www.youtube.com/watch?v=zDiQrgeGTuU)
 
-### Node
+### Node & Backend
 ---
 * [ ] [Debugging in Node.Js](https://medium.com/@adambisek/debugging-in-node-js-the-definitive-guide-b3c433c90dbf)
 * [ ] [Debugging VScode (Node)](https://www.youtube.com/watch?v=yFtU6_UaOtA)
 * [ ] [Prismic - get started on a new Node.js project](https://prismic.io/docs/nodejs/getting-started/prismic-from-scratch-with-nodejs)
 * [ ] [request/request - Simplified HTTP request client](https://github.com/request/request)
+* [ ] [Sanity - import and tear down datasets](https://www.sanity.io)
 
 ### Code Pens
 ---
