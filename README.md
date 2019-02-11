@@ -72,7 +72,7 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Videos
 ---
-[ ] []()
+* [ ] []()
 
 ### Databases & APIs
 ---
