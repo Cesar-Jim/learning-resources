@@ -39,7 +39,7 @@ This is a place in which I concentrate all the resources I have found interestin
 - [ ] [Progressive web apps checklist](https://developers.google.com/web/progressive-web-apps/checklist) 
 - [ ] [Web dev setup: Robin Wieruch](https://www.robinwieruch.de/developer-setup/) 
 - [ ] [User Stories - Fast Agile Skills](https://www.linkedin.com/pulse/20141026233229-25825330-user-stories-fast-agile-skills/) 
-- [ ] Init templates for js Projects](https://github.com/picanteverde/init) 
+- [ ] [Init templates for js Projects](https://github.com/picanteverde/init) 
 
 ### Algorithms
 ---
@@ -135,7 +135,7 @@ This is a place in which I concentrate all the resources I have found interestin
 ---
 * [ ] []()
 * [ ] [Good UX / Bad UX](https://medium.com/goodux-badux)
-*  ] [Awwwards](https://www.awwwards.com/)
+* [ ] [Awwwards](https://www.awwwards.com/)
 * [ ] [Holopipe](https://holopipe.com/Features)
 * [ ] [Content Sizing in CSS Grid](https://www.youtube.com/watch?v=lZ2JX_6SGNI&list=PLbSquHt1VCf3rmXD2BymC_ZOGDEIu0OWP)
 
