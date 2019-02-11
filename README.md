@@ -33,11 +33,11 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Web dev workflow
 ---
-[-] []()
-[-] [Progressive web apps checklist](https://developers.google.com/web/progressive-web-apps/checklist) 
-[-] [Web dev setup: Robin Wieruch](https://www.robinwieruch.de/developer-setup/) 
-[-] [User Stories - Fast Agile Skills](https://www.linkedin.com/pulse/20141026233229-25825330-user-stories-fast-agile-skills/) 
-[-] Init templates for js Projects](https://github.com/picanteverde/init) 
+- [ ] []()
+- [ ] [Progressive web apps checklist](https://developers.google.com/web/progressive-web-apps/checklist) 
+- [ ] [Web dev setup: Robin Wieruch](https://www.robinwieruch.de/developer-setup/) 
+- [ ] [User Stories - Fast Agile Skills](https://www.linkedin.com/pulse/20141026233229-25825330-user-stories-fast-agile-skills/) 
+- [ ] Init templates for js Projects](https://github.com/picanteverde/init) 
 
 ### Algorithms
 ---
