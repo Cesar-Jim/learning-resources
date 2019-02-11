@@ -11,7 +11,7 @@ This is a place in which I concentrate all the resources I have found interestin
 # Index
 ---
 
-| Item          | Topic                                     |
+| Item          | Category                                  |
 |:---:          |:-------------                             |
 | 1.            | [Web dev workflow](#web-dev-workflow)     |
 | 2.            | [Algorithms](#algorithms)                 |
