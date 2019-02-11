@@ -1,7 +1,7 @@
 # learning-resources
 This is a place in which I concentrate all the resources I have found interesting or useful for my web development learning process.
 
-![MERN stack](https://www.dropbox.com/s/rekvcb5xceathl9/mern3.png?dl=0)
+![MERN stack](https://uca0217342bfbf34b4ba73b35510.previews.dropboxusercontent.com/p/thumb/AAUZs-vCjT_LOTlk8Hnv0R5CRLHUzRPe-caxHJlPK8PUegkf1ED1li-MO4K3jyrKy-2GdXjwmJkpgg6qD5LydeIay4R9UttdvdEM9TP8FS-RXuFllF-_tCB1LeW74nwzTRCc1-ETX_5cbF7oRmV3i11yHHr6DnxF_egxsH0rB9rDV40H9Q75Nk9vcQ3UpKj7bPDaQN_xxk73d5K_joOFwm7F7cR7dZLjgCztparl_aLDtncWhh12F_GxCHv7gZBwasat3Z37F3KDNVkK7-pYB6ws/p.png?size_mode=5)
 
 **Note**: since October 2018, my primary learning focus has been devoted to the MERN stack. However, this list does not limit its content to Mongo, Express, React or Node. I try to keep track of interesting material in the web such as videos, tools, code snippets, courses, tutorials, podcasts, codePens and anything that adds to my web development career.
 
