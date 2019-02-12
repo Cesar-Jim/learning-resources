@@ -23,7 +23,7 @@ This is a place in which I concentrate all the resources I have found interestin
 | 8.            | [Videos](#articles)                       |
 | 9.            | [Databases & APIs](#databases-&-apis)     |
 | 10.           | [React](#react)                           |
-| 11.           | [Node & Backend](#node-&-backend)                             |
+| 11.           | [Node & Backend](#node-&-backend)         |
 | 12.           | [CodePens](#code-pens)                    |
 | 13.           | [Web Dev Jobs](#code-pens)                |
 | 14.           | [Packages](#packages)                     |
@@ -44,6 +44,7 @@ This is a place in which I concentrate all the resources I have found interestin
 - [ ] [A better Git workflow with rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
 * [Usersnap - App usage feedback](https://usersnap.com/)
 * [Gulp - task automation](https://gulpjs.com/) 
+* [The Best Frontend Cheat-Sheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) 
 
 ### Algorithms
 ---
@@ -52,7 +53,7 @@ This is a place in which I concentrate all the resources I have found interestin
 
 ### Data structures
 ---
-* [ ] []()
+* [ ] [Big-O Cheat-Sheet](http://bigocheatsheet.com/)
 
 ### Books
 ---
@@ -62,7 +63,7 @@ This is a place in which I concentrate all the resources I have found interestin
 ---
 * [ ] [System Design](https://github.com/checkcheckzz/system-design-interview)
 
-### Tools
+### Tools & Frameworks
 ---
 * [Ionicons.com](https://ionicons.com/)
 * [Eagle design library](https://eagle.cool/)
@@ -92,10 +93,14 @@ This is a place in which I concentrate all the resources I have found interestin
 * [Bootstrap - Toolkit to build responsive, mobile-first apps)](https://getbootstrap.com/)
 * [Boomerang for gmail - Schedule an email to be sent later)](https://www.boomeranggmail.com/)
 * [Markdown online preview](https://dillinger.io/)
+* [GreenSock - Animation for the web](https://greensock.com//)
+* [Velocityjs - Animation engine](http://velocityjs.org/)
+* [Ionic Framework](https://ionicframework.com/)
 
 ### Articles
 ---
 * [ ] [React vs Angular](https://www.sitepoint.com/react-vs-angular/)
+* [ ] [10 Reasons why I moved from Angular to React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/)
 
 ### Videos
 ---
@@ -112,6 +117,7 @@ This is a place in which I concentrate all the resources I have found interestin
 * [D3 - Data-driven docs](https://d3js.org/)
 * [mLab - DaaS for MongoDB](https://mlab.com/)
 * [MockAPI - tool that lets mock up APIs and custom data](https://www.mockapi.io/login)
+* [PostgreSQL](https://www.postgresql.org)
 
 ### React
 ---
@@ -126,6 +132,8 @@ This is a place in which I concentrate all the resources I have found interestin
 * [ ] [React Training](https://github.com/ReactTraining)
 * [Facebook Create React App](https://github.com/facebook/create-react-app)
 * [ ] [deploy create-react-app to Heroku](https://www.youtube.com/watch?v=zDiQrgeGTuU)
+* [ ] [How to setup React.js on Windows](https://www.robinwieruch.de/react-js-windows-setup/)
+* [React Router](https://reacttraining.com)
 
 ### Node & Backend
 ---
@@ -134,6 +142,8 @@ This is a place in which I concentrate all the resources I have found interestin
 * [ ] [Prismic - get started on a new Node.js project](https://prismic.io/docs/nodejs/getting-started/prismic-from-scratch-with-nodejs)
 * [ ] [request/request - Simplified HTTP request client](https://github.com/request/request)
 * [Sanity - import and tear down datasets](https://www.sanity.io)
+* [Node.JS Documentation](https://nodejs.org)
+* [ ] [5 Ways to Make HTTP Requests in Node.js](https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html)
 
 ### Code Pens
 ---
@@ -156,6 +166,11 @@ This is a place in which I concentrate all the resources I have found interestin
 * [Jasmine - TDD](https://jasmine.github.io/)
 * [Sequelize - a promise-based ORM for Node.js](http://docs.sequelizejs.com/)
 * [Passport - authentication middleware for Node.js](http://www.passportjs.org/)
+* [Underscore.JS](https://underscorejs.org/)
+* [Lodash](https://lodash.com/)
+* [Moment.JS - dates and times in JavaScript](http://momentjs.com/)
+* [Inquirer.JS](https://github.com/SBoudrias/Inquirer.js/)
+
 
 ### Javascript
 ---
@@ -164,6 +179,11 @@ This is a place in which I concentrate all the resources I have found interestin
 * [ ] [Use authentication libraries](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
 * [ ] [A Guide to the Why and How of Full-Stack JavaScript](https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
 * [ ] [Fetch API tutorial](https://appdividend.com/2018/08/20/javascript-fetch-api-example-tutorial/)
+* [Developer Mozilla](https://developer.mozilla.org/en-US/)
+* [ECMAScript 6 Features Overview](https://github.com/lukehoban/es6features)
+* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [ECMA International](https://www.ecma-international.org/)
+* [ ] [Exploring ES6](http://exploringjs.com/es6/)
 
 ### Fonts
 ---
@@ -220,4 +240,9 @@ This is a place in which I concentrate all the resources I have found interestin
 * [Codeanywhere - Online Editor](https://codeanywhere.com/)
 * [Jetbrains - Paid IDE](https://www.jetbrains.com/webstorm/)
 * [ ] [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands)
+* [Ruby documentation](http://ruby-doc.org/)
+* [Web Accessibility Initiative](https://www.w3.org/)
+* [V8](https://v8.dev/docs)
+* [An A-Z Index of the Linux command line:](https://ss64.com/bash/)
+* [Index of Linux Commands](http://www.linfo.org/command_index.html)
 
