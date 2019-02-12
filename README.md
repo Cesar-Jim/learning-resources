@@ -212,6 +212,7 @@ This is a place in which I concentrate all the resources I have found interestin
 * [Invision - product design platform](https://www.invisionapp.com/)
 * [Normalize.css - makes browsers render all elements more consistently ](https://necolas.github.io/normalize.css/)
 * [Placeholder - generates custom placeholder images on the fly](https://placeholder.com/)
+* [ ] [A coding project a day for 20 days](https://medium.freecodecamp.org/a-coding-project-a-day-for-20-days-5cd4c9383f84)
 
 
 ### Coding Music
