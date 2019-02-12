@@ -42,8 +42,8 @@ This is a place in which I concentrate all the resources I have found interestin
 - [ ] [User Stories - Fast Agile Skills](https://www.linkedin.com/pulse/20141026233229-25825330-user-stories-fast-agile-skills/) 
 - [ ] [Init templates for js Projects](https://github.com/picanteverde/init)
 - [ ] [A better Git workflow with rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
-- [ ] [Usersnap - App usage feedback](https://usersnap.com/)
-- [ ] [Gulp - task automation](https://gulpjs.com/) 
+* [Usersnap - App usage feedback](https://usersnap.com/)
+* [Gulp - task automation](https://gulpjs.com/) 
 
 ### Algorithms
 ---
